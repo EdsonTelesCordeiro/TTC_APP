@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474007704457",
+    "project_id": "agenda-escolar-801de",
+    "storage_bucket": "agenda-escolar-801de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474007704457:android:a43297e0426bbeafc24758",
+        "android_client_info": {
+          "package_name": "com.example.agendaescolarpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1Dqle_01mHqfKc1jdJdqwl5PkZbL7vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
